@@ -1,17 +1,12 @@
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */ @font-face 
 {font-family:"Candice";src:url("CANDY.eot?")
- format("eot"),url("CANDY.woff") format("woff"),url("CANDY.ttf")
-  format("truetype"),url("CANDY.svg#Candice") format("svg");font-weight:normal;font-style:normal;
+ format("eot"),url("CANDY.woff") format("woff"),url("CANDY.ttf") format("truetype"),url("CANDY.svg#Candice") format("svg");font-weight:normal;font-style:normal;}
 
-
-  font-family:"UnifrakturMaguntia";src:url("UnifrakturMaguntia-Book.ttf")
+body{
+	background-color:yellow;
 }
- 
-body {
+
+h1{
+	font-family: 'CANDY';
 	color:blue;
-	background-color: white;
-	font-family: "CANDY" ;
-	
-
- }
-
+}

@@ -20,11 +20,7 @@ h2 {
 	font-family :"Candice";
 }
 
-div {
-    width: 200px;
-    height: 50px;
-    background-color: #eee;
-    overflow: visible;
+div{
 	color:#FF0040;
 	font-family:georgia;
 	font-size: 12pt;

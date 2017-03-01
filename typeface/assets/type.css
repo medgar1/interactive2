@@ -1,0 +1,1817 @@
+
+body{
+    
+}
+
+#letteraserif {
+    width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 105pt;
+     background-color: black;
+}
+
+#lettera1 {
+    width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:95pt;
+     left: 110pt;
+     background-color: black;
+}
+
+#lettera2 {
+    width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:90pt;
+     left: 115pt;
+     background-color: black;
+}
+
+#lettera3 {
+    width: 15pt;
+    height:25pt;
+     position: fixed;
+     top:75pt;
+     left: 115pt;
+     background-color: black;
+}
+
+#letteraserif2 {
+     width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 145pt;
+     background-color: black;
+}
+
+
+#lettera4 {
+    width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:95pt;
+     left: 155pt;
+     background-color: black;
+}
+
+#lettera5 {
+    width: 15pt;
+    height:25pt;
+     position: fixed;
+     top:75pt;
+     left: 150pt;
+     background-color: black;
+}
+
+#letteraarch
+{ 
+    width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:75pt;
+     left: 125pt;
+     background-color: black;}
+
+ #letteraarchcurve
+	{ 
+    width: 25pt;
+    height:2pt;
+     position: fixed;
+     top:85pt;
+     left: 140pt;
+     background-color: black;}
+
+  #letteraarchcurvetop
+	{ 
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:70pt;
+     left: 125pt;
+     background-color: black;}
+
+
+#letteratopleft {
+    width: 25pt;
+    height:25pt;
+     position: fixed;
+     top:60pt;
+     left: 120pt;
+     background-color: black;
+}
+
+#letteratopright {
+    width: 25pt;
+    height:25pt;
+     position: fixed;
+     top:60pt;
+     left: 135pt;
+     background-color: black;
+}
+
+#letteratopserif{
+    width: 43pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 118pt;
+     background-color: black;
+ }
+
+ #letteramiddle{
+    width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:60pt;
+     left: 135pt;
+     background-color: white;
+ }
+
+ #letterbserif
+ {
+ 	 width: 65pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 200pt;
+     background-color: black;
+
+ }
+
+#letterb1
+ {
+width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:55pt;
+     left: 210pt;
+     background-color: black;
+ }
+
+ #letterbtopserif
+ {
+width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 200pt;
+     background-color: black;
+ }
+
+ #letterb2
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:58pt;
+     left: 250pt;
+     background-color: black;
+ }
+ #letterb3
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:65pt;
+     left: 245pt;
+     background-color: black;
+ }
+
+  #letterb4
+ {
+width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:70pt;
+     left: 225pt;
+     background-color: black;
+ }
+
+  #letterbarch
+ {
+width: 18pt;
+    height:10pt;
+     position: fixed;
+     top:90pt;
+     left: 250pt;
+     background-color: black;
+ }
+
+ #letterbarchcurve
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:80pt;
+     left: 245pt;
+     background-color: black;
+ }
+
+ #letterbarchcurvetop {
+ width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:80pt;
+     left: 240pt;
+     background-color: black;
+ }
+
+ #letterCserif{
+   width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 315pt;
+     background-color: black;
+ }
+
+ #letterc1
+ {
+ 	width:30;
+ 	height:10;
+ 	position:fixed;
+ 	top:75pt;
+ 	left:300pt;
+ 	background-color: black;
+ }
+
+ #letterc2
+ {
+ 	width:25;
+ 	height:25;
+ 	position:fixed;
+ 	top:80pt;
+ 	left:305pt;
+ 	background-color: black;
+ }
+
+  #letterc3
+ {
+ 	width:25;
+ 	height:10;
+ 	position:fixed;
+ 	top:95pt;
+ 	left:325pt;
+ 	background-color: black;
+ }
+
+  #letterc4
+ {
+ 	width:25;
+ 	height:25;
+ 	position:fixed;
+ 	top:60pt;
+ 	left:305pt;
+ 	background-color: black;
+ }
+
+ #letterc5
+ {
+ 	width:25;
+ 	height:10;
+ 	position:fixed;
+ 	top:57pt;
+ 	left:325pt;
+ 	background-color: black;
+ }
+ #letterc6
+ {
+ 	width:25;
+ 	height:15;
+ 	position:fixed;
+ 	top:57pt;
+ 	left:345pt;
+ 	background-color: black;
+ }
+
+
+
+ #letterctopserif{
+ width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 315pt;
+     background-color: black;
+ }
+
+ #lettercserif2
+ {
+ 	width:8pt;
+ 	height:20pt;
+ 	position:fixed;
+ 	top:55pt;
+ 	left:355pt;
+ 	background-color: black;
+ }
+
+ #lettercbottomserif
+ {
+ 	width:8pt;
+ 	height:15pt;
+ 	position:fixed;
+ 	top:90pt;
+ 	left:355pt;
+ 	background-color: black;
+ }
+
+ #letterdserif
+ {
+ 	width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 405pt;
+     background-color: black;
+ }
+
+  #letterdtopserif
+ {
+ 	width: 55pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 405pt;
+     background-color: black;
+ }
+
+  #letterd1
+ {
+ 	width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:55pt;
+     left: 415pt;
+     background-color: black;
+ }
+
+
+  #letterd2
+ {
+ 	width: 15pt;
+    height:15pt;
+     position: fixed;
+     top:85pt;
+     left: 445pt;
+     background-color: black;
+ }
+
+ #letterd3
+ {
+ 	width: 15pt;
+    height:15pt;
+     position: fixed;
+     top:80pt;
+     left: 450pt;
+     background-color: black;
+ }
+
+ #letterd4
+ {
+ 	width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:70pt;
+     left: 445pt;
+     background-color: black;
+ }
+
+  #letterd5
+ {
+ 	width: 15pt;
+    height:15pt;
+     position: fixed;
+     top:60pt;
+     left: 445pt;
+     background-color: black;
+ }
+
+  #letterd6
+ {
+ 	width: 10pt;
+    height:10pt;
+     position: fixed;
+     top:55pt;
+     left: 435pt;
+     background-color: black;
+ }
+
+  #letterd7
+ {
+ 	width: 10pt;
+    height:10pt;
+     position: fixed;
+     top:95pt;
+     left: 435pt;
+     background-color: black;
+ }
+
+#lettereserif
+ {
+ 	width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 505pt;
+     background-color: black;
+ }
+
+  #letteretopserif
+ {
+ 	width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 505pt;
+     background-color: black;
+ }
+
+
+  #lettere1
+ {
+ 	width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:55pt;
+     left: 515pt;
+     background-color: black;
+ }
+
+#lettere2
+ {
+ 	width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:75pt;
+     left: 515pt;
+     background-color: black;
+ }
+
+ #lettere3
+ {
+ 	width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:55pt;
+     left: 545pt;
+     background-color: black;
+ }
+
+ #lettere4
+ {
+ 	width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:90pt;
+     left: 545pt;
+     background-color: black;
+ }
+
+ #lettere5
+ {
+ 	width: 5pt;
+    height:15pt;
+     position: fixed;
+     top:72pt;
+     left: 542pt;
+     background-color: black;
+ }
+
+
+#letterfserif
+ {
+ 	width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 605pt;
+     background-color: black;
+ }
+
+  #letterftopserif
+ {
+ 	width: 55pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 605pt;
+     background-color: black;
+ }
+
+
+  #letterf1 {
+ 	width: 15pt;
+    height:45pt;
+    position: fixed;
+    top:55pt;
+   	left: 615pt;
+    background-color: black;
+ }
+
+#letterf2
+ {
+ 	width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:75pt;
+     left: 615pt;
+     background-color: black;
+ }
+
+
+ #letterf3
+ {
+ 	width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:55pt;
+     left: 650pt;
+     background-color: black;
+ }
+
+
+ #letterf4
+ {
+ 	width: 5pt;
+    height:15pt;
+     position: fixed;
+     top:72pt;
+     left: 642pt;
+     background-color: black;
+ }
+ 
+  #letterGserif{
+   width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 105pt;
+     background-color: black;
+ }
+
+ #letterg1
+ {
+ 	width:30;
+ 	height:10;
+ 	position:fixed;
+ 	top:175pt;
+ 	left:100pt;
+ 	background-color: black;
+ }
+
+ #letterg2
+ {
+ 	width:25;
+ 	height:25;
+ 	position:fixed;
+ 	top:180pt;
+ 	left:105pt;
+ 	background-color: black;
+ }
+
+  #letterg3
+ {
+ 	width:25;
+ 	height:10;
+ 	position:fixed;
+ 	top:195pt;
+ 	left:125pt;
+ 	background-color: black;
+ }
+
+  #letterg4
+ {
+ 	width:25;
+ 	height:25;
+ 	position:fixed;
+ 	top:160pt;
+ 	left:105pt;
+ 	background-color: black;
+ }
+
+ #letterg5
+ {
+ 	width:25;
+ 	height:10;
+ 	position:fixed;
+ 	top:157pt;
+ 	left:125pt;
+ 	background-color: black;
+ }
+ #letterg6
+ {
+ 	width:25;
+ 	height:15;
+ 	position:fixed;
+ 	top:157pt;
+ 	left:145pt;
+ 	background-color: black;
+ }
+
+ #letterg7
+ {
+ 	width:35pt;
+ 	height:5pt;
+ 	position:fixed;
+ 	top:185pt;
+ 	left:140pt;
+ 	background-color: black;
+ }
+
+
+
+
+ #lettergtopserif{
+ width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 115pt;
+     background-color: black;
+ }
+
+ #lettergserif2
+ {
+ 	width:15pt;
+ 	height:20pt;
+ 	position:fixed;
+ 	top:155pt;
+ 	left:155pt;
+ 	background-color: black;
+ }
+
+ #lettergbottomserif
+ {
+ 	width:25pt;
+ 	height:20pt;
+ 	position:fixed;
+ 	top:185pt;
+ 	left:145pt;
+ 	background-color: black;
+ }
+
+ #letterhserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 210pt;
+     background-color: black;
+}
+
+#letterhtopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 210pt;
+     background-color: black;
+}
+
+#letterh1
+{
+ 	width: 35pt;
+    height:10pt;
+     position: fixed;
+     top:175pt;
+     left: 215pt;
+     background-color: black;
+
+}
+
+#letterh2
+{
+		width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 215pt;
+     background-color: black;
+}
+
+#letterh3
+{
+		width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 245pt;
+     background-color: black;
+}
+
+#letterhtopserifleft
+{
+ width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 240pt;
+     background-color: black;
+}
+
+#letterhbottomserifleft
+{
+width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 240pt;
+     background-color: black;
+}
+
+
+ #letterIserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 310pt;
+     background-color: black;
+}
+
+#letterItopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 310pt;
+     background-color: black;
+}
+
+#letterI1
+{
+ 	
+		width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 315pt;
+     background-color: black;
+}
+
+
+#letterJtopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 410pt;
+     background-color: black;
+}
+
+#letterJ1
+{
+ 	
+		width: 15pt;
+    height:60pt;
+     position: fixed;
+     top:160pt;
+     left: 415pt;
+     background-color: black;
+ }
+
+     #letterJ2
+{
+ 	
+		width: 15pt;
+    height:15pt;
+     position: fixed;
+     top:210pt;
+     left: 410pt;
+     background-color: black;
+
+ }
+
+    #letterJ3
+{
+ 	
+		width: 40pt;
+    height:15pt;
+     position: fixed;
+     top:211pt;
+     left: 390pt;
+     background-color: black;
+
+ }
+
+     #letterJ4
+{
+ 	
+		width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:205pt;
+     left: 375pt;
+     background-color: black;
+
+ }
+
+ #letterKserif
+ {
+ 	 width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 500pt;
+     background-color: black;
+
+ }
+
+#letterK1
+ {
+width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 510pt;
+     background-color: black;
+ }
+
+ #letterKtopserif
+ {
+width: 12pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 500pt;
+     background-color: black;
+ }
+
+ #letterK2
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:158pt;
+     left: 550pt;
+     background-color: black;
+ }
+ #letterK3
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:165pt;
+     left: 545pt;
+     background-color: black;
+ }
+
+  #letterK4
+ {
+width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:170pt;
+     left: 525pt;
+     background-color: black;
+ }
+
+  #letterKarch
+ {
+width: 18pt;
+    height:10pt;
+     position: fixed;
+     top:190pt;
+     left: 550pt;
+     background-color: black;
+ }
+
+ #letterKarchcurve
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:180pt;
+     left: 545pt;
+     background-color: black;
+ }
+
+ #letterKarchcurvetop {
+ width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:180pt;
+     left: 540pt;
+     background-color: black;
+ }
+
+ #letterKendseriftop{
+ 	width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 550pt;
+     background-color: black;
+ }
+
+ #letterKendserifbottom{
+ 	width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 550pt;
+     background-color: black;
+ }
+
+ #letterLtopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 595pt;
+     background-color: black;
+}
+
+#letterL1
+{
+ 	
+		width: 15pt;
+    height:40pt;
+     position: fixed;
+     top:160pt;
+     left: 600pt;
+     background-color: black;
+ }
+
+     #letterL2
+{
+ 	
+		width: 15pt;
+    height:15pt;
+     position: fixed;
+     top:185pt;
+     left: 630pt;
+     background-color: black;
+
+ }
+
+    #letterL3
+{
+ 	
+		width: 40pt;
+    height:5pt;
+     position: fixed;
+     top:195pt;
+     left: 605pt;
+     background-color: black;
+
+ }
+
+ #LetterMserif
+ {
+ 	width:15pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:100pt;
+ 	background-color: black;
+ }
+
+  #LetterMendserifbottom
+ {
+ 	width:15pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:355pt;
+ 	left:100pt;
+ 	background-color: black;
+ }
+
+  #LetterM1
+ {
+ 	width:10pt;
+ 	height: 60pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:105pt;
+ 	background-color: black;
+ }
+
+ #LetterM2
+ {
+ 	width:20pt;
+ 	height: 60pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:150pt;
+ 	background-color: black;
+ }
+
+  #LetterMarch
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:105pt;
+ 	background-color: black;
+ }
+
+  #LetterMarch2
+ {
+ 	width:20pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:305pt;
+ 	left:105pt;
+ 	background-color: black;
+ }
+
+
+  #LetterMarch3
+ {
+ 	width:20pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:315pt;
+ 	left:110pt;
+ 	background-color: black;
+ }
+
+
+  #LetterMarch4
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:143pt;
+ 	background-color: black;
+ }
+
+ #LetterMarch5
+ {
+ 	width:20pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:320pt;
+ 	left:122pt;
+ 	background-color: black;
+ }
+
+ #LetterMarch6
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:315pt;
+ 	left:135pt;
+ 	background-color: black;
+ }
+
+ #LetterMarch7
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:310pt;
+ 	left:140pt;
+ 	background-color: black;
+ }
+
+#LetterMarch8
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:330pt;
+ 	left:125pt;
+ 	background-color: black;
+ }
+
+ #letterMendseriftopright
+ {
+ 	width:25pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:150pt;
+ 	background-color: black;
+ }
+
+ #letterMendserifbottomright
+ {
+ 	width:25pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:355pt;
+ 	left:150pt;
+ 	background-color: black;
+ }
+
+ #LetterNserif
+ {
+ 	width:15pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:200pt;
+ 	background-color: black;
+ }
+
+  #LetterNendserifbottom
+ {
+ 	width:15pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:355pt;
+ 	left:200pt;
+ 	background-color: black;
+ }
+
+
+  #LetterN1
+ {
+ 	width:10pt;
+ 	height: 60pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:205pt;
+ 	background-color: black;
+ }
+
+ #LetterN2
+ {
+ 	width:10pt;
+ 	height: 60pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:245pt;
+ 	background-color: black;
+ }
+
+  #LetterNarch
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:205pt;
+ 	background-color: black;
+ }
+
+  #LetterNarch2
+ {
+ 	width:20pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:305pt;
+ 	left:205pt;
+ 	background-color: black;
+ }
+
+
+  #LetterNarch3
+ {
+ 	width:20pt;
+ 	height: 20pt;
+ 	position: fixed;
+ 	top:315pt;
+ 	left:212pt;
+ 	background-color: black;
+ }
+
+  #LetterNarch4
+ {
+ 	width:15pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:300pt;
+ 	left:243pt;
+ 	background-color: black;
+ }
+
+
+ #LetterNarch5
+ {
+ 	width:20pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:328pt;
+ 	left:220pt;
+ 	background-color: black;
+ }
+
+  #LetterNarch6
+ {
+ 	width:20pt;
+ 	height: 10pt;
+ 	position: fixed;
+ 	top:335pt;
+ 	left:225pt;
+ 	background-color: black;
+ }
+
+
+#LetterNarch7	{
+width:20pt;
+height: 15pt;
+position: fixed;
+top:340pt;
+left:230pt;
+background-color: black;
+ }
+
+#letterOserif {
+
+width: 40pt;
+height:10pt;
+position: fixed;
+top:300pt;
+left: 305pt;
+background-color: black;
+
+ }
+
+#letterO1 {
+width: 40pt;
+height:10pt;
+position: fixed;
+top:350pt;
+left: 305pt;
+background-color: black;
+}
+
+#letterO2 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:335pt;
+left:345pt;
+background-color: black;
+}
+
+#letterOarch {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:340pt;
+left:340pt;
+background-color: black;
+}
+
+#letterOarch2 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:325pt;
+left:350pt;
+background-color: black;
+}
+
+#letterOarch3 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:315pt;
+left:345pt;
+background-color: black;
+}
+
+#letterOarch4 {
+width: 15pt;
+height:20pt;
+position: fixed;
+top:305pt;
+left:340pt;
+background-color: black;
+}
+
+#letterOarch5 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:340pt;
+left:340pt;
+background-color: black;
+}
+
+#letterOarch6 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:325pt;
+left:290pt;
+background-color: black;
+}
+
+#letterOarch7 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:315pt;
+left:295pt;
+background-color: black;
+}
+
+#letterOarch8 {
+width: 15pt;
+height:20pt;
+position: fixed;
+top:305pt;
+left:300pt;
+background-color: black;
+}
+
+#letterOarch9 {
+width: 15pt;
+height:20pt;
+position: fixed;
+top:335pt;
+left:295pt;
+background-color: black;
+}
+
+#letterPserif
+ {
+ 	 width: 65pt;
+    height:5pt;
+     position: fixed;
+     top:306pt;
+     left: 400pt;
+     background-color: black;
+
+ }
+
+#letterP1
+ {
+width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:310pt;
+     left: 410pt;
+     background-color: black;
+ }
+
+ #letterPtopserif
+ {
+width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:305pt;
+     left: 400pt;
+     background-color: black;
+ }
+
+ #letterP2
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:310pt;
+     left: 450pt;
+     background-color: black;
+ }
+ #letterP3
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:325pt;
+     left: 445pt;
+     background-color: black;
+ }
+
+  #letterP4
+ {
+width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:330pt;
+     left: 425pt;
+     background-color: black;
+ }
+
+#letterPbottomserif {
+	width:30pt;
+ 	height: 5pt;
+ 	position: fixed;
+ 	top:355pt;
+ 	left:400pt;
+ 	background-color: black;}
+
+
+#letterQserif {
+
+width: 40pt;
+height:10pt;
+position: fixed;
+top:300pt;
+left: 505pt;
+background-color: black;
+
+ }
+
+#letterQ1 {
+width: 40pt;
+height:10pt;
+position: fixed;
+top:350pt;
+left: 505pt;
+background-color: black;
+}
+
+#letterQ2 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:335pt;
+left:545pt;
+background-color: black;
+}
+
+#letterQarch {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:340pt;
+left:540pt;
+background-color: black;
+}
+
+#letterQarch2 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:325pt;
+left:550pt;
+background-color: black;
+}
+
+#letterQarch3 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:315pt;
+left:545pt;
+background-color: black;
+}
+
+#letterQarch4 {
+width: 15pt;
+height:20pt;
+position: fixed;
+top:305pt;
+left:540pt;
+background-color: black;
+}
+
+#letterQarch5 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:340pt;
+left:540pt;
+background-color: black;
+}
+
+#letterQarch6 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:325pt;
+left:490pt;
+background-color: black;
+}
+
+#letterQarch7 {
+width: 15pt;
+height:15pt;
+position: fixed;
+top:315pt;
+left:495pt;
+background-color: black;
+}
+
+#letterQarch8 {
+width: 15pt;
+height:20pt;
+position: fixed;
+top:305pt;
+left:500pt;
+background-color: black;
+}
+
+#letterQarch9 {
+width: 15pt;
+height:20pt;
+position: fixed;
+top:335pt;
+left:495pt;
+background-color: black;
+}
+
+  #letterQarch10 {
+width: 18pt;
+height:10pt;
+position: fixed;
+top:340pt;
+left:550pt;
+background-color: black;
+ }
+
+ #letterQarchcurve
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:330pt;
+     left: 530pt;
+     background-color: black;
+ }
+
+ #letterQarchcurvetop {
+ width: 35pt;
+    height:10pt;
+     position: fixed;
+     top:330pt;
+     left: 500pt;
+     background-color: black;
+ }
+
+ #letterQendserifbottom {
+ 	 width: 25pt;
+     height:10pt;
+     position: fixed;
+     top:350pt;
+     left: 550pt;
+     background-color: black;
+ }
+
+  #letterrserif
+ {
+ 	 width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:300pt;
+     left: 600pt;
+     background-color: black;
+
+ }
+
+#letterr1
+ {
+width: 15pt;
+    height:60pt;
+     position: fixed;
+     top:300pt;
+     left: 610pt;
+     background-color: black;
+ }
+
+ #letterrtopserif
+ {
+width: 12pt;
+    height:5pt;
+     position: fixed;
+     top:355pt;
+     left: 600pt;
+     background-color: black;
+ }
+
+ #letterr2
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:315pt;
+     left: 650pt;
+     background-color: black;
+ }
+ #letterr3
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:340pt;
+     left: 645pt;
+     background-color: black;
+ }
+
+  #letterr4
+ {
+width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:330pt;
+     left: 625pt;
+     background-color: black;
+ }
+
+  #letterrarch
+ {
+width: 18pt;
+    height:10pt;
+     position: fixed;
+     top:305pt;
+     left: 640pt;
+     background-color: black;
+ }
+
+ #letterrarchcurve
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:310pt;
+     left: 645pt;
+     background-color: black;
+ }
+
+ #letterrarchcurvetop {
+ width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:340pt;
+     left: 640pt;
+     background-color: black;
+ }
+
+ #letterrendseriftop{
+ 	width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:356pt;
+     left: 650pt;
+     background-color: black;
+ }
+
+ #letterrendserifbottom{
+ 	width: 17pt;
+    height:5pt;
+     position: fixed;
+     top:300pt;
+     left: 630pt;
+     background-color: black;
+ }
+
+ #letterStopserif {
+	width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:405pt;
+     left: 100pt;
+     background-color: black;
+ }
+
+ #letterSendserifbottom{
+ 	width: 17pt;
+    height:5pt;
+     position: fixed;
+     top:410pt;
+     left: 140pt;
+     background-color: black;
+ }
+
+  #letterS1{
+ 	width: 22pt;
+    height:15pt;
+     position: fixed;
+     top:400pt;
+     left: 120pt;
+     background-color: black;
+ }
+
+
+  #letterS2{
+ 	width: 25pt;
+    height:30pt;
+     position: fixed;
+     top:410pt;
+     left: 100pt;
+     background-color: black;
+ }
+ 
+  #letterS3
+ {
+width: 18pt;
+    height:10pt;
+     position: fixed;
+     top:405pt;
+     left: 140pt;
+     background-color: black;
+ }
+
+ #letterS4
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:410pt;
+     left: 145pt;
+     background-color: black;
+ }
+
+
+  #letterS5
+ {
+width: 40pt;
+    height:10pt;
+     position: fixed;
+     top:450pt;
+     left: 120pt;
+     background-color: black;
+ }
+
+  #letterS6{
+ 	width: 25pt;
+    height:30pt;
+     position: fixed;
+     top:450pt;
+     left: 140pt;
+     background-color: black;
+
+ }
+
+ #lettersendseriftop
+ {
+ 	width: 30pt;
+    height:10pt;
+     position: fixed;
+     top:440pt;
+     left: 110pt;
+     background-color: black;
+ }
+ 
+  #letterS7{
+ 	width: 60pt;
+    height:10pt;
+     position: fixed;
+     top:475pt;
+     left: 100pt;
+     background-color: black;
+ 
+}
+
+#letterTserif
+ {
+ 	width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:476Spt;
+     left: 205pt;
+     background-color: black;
+ }
+
+  #letterTtopserif
+ {
+ 	width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:400pt;
+     left: 205pt;
+     background-color: black;
+ }
+
+
+  #letterT1
+ {
+ 	width: 15pt;
+    height:70pt;
+     position: fixed;
+     top:415pt;
+     left: 220pt;
+     background-color: black;
+ }
+
+#letterT2
+ {
+ 	width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:405pt;
+     left: 215pt;
+     background-color: black;
+ }
+
+ #letterT3
+ {
+ 	width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:400pt;
+     left: 245pt;
+     background-color: black;
+ }
+
+ #letterT4
+ {
+ 	width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:400pt;
+     left: 200pt;
+     background-color: black;
+ }
+
+ 

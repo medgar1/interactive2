@@ -1,0 +1,839 @@
+ 
+body{
+    background-color: black;
+}
+
+
+
+ #letterbserif
+ {
+ 	 width: 65pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 200pt;
+     background-color: #e6ffff;
+
+ }
+
+#letterb1
+ {
+width: 15pt;
+    height:45pt;
+     position: absolute;
+     padding:10%;
+     top:55pt;
+     left: 210pt;
+     background-color: #e6ffff;
+ }
+
+ #letterbtopserif
+ {
+width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 200pt;
+     background-color: #e6ffff;
+ }
+
+ #letterb2
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:58pt;
+     left: 250pt;
+     background-color: #e6ffff;
+ }
+ #letterb3
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:65pt;
+     left: 245pt;
+     background-color: #e6ffff;
+ }
+
+
+  #letterb4
+ {
+width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:70pt;
+     left: 225pt;
+     background-color: #e6ffff;
+ }
+
+  #letterbarch
+ {
+width: 18pt;
+    height:10pt;
+     position: fixed;
+     top:90pt;
+     left: 250pt;
+     background-color: #e6ffff;
+ }
+
+ #letterbarchcurve
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:80pt;
+     left: 245pt;
+     background-color: #e6ffff;
+ }
+
+ #letterbarchcurvetop {
+ width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:80pt;
+     left: 240pt;
+     background-color: #e6ffff;
+ }
+
+#lettereserif
+ {
+    width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 305pt;
+     background-color:  #b3ffff;
+ }
+
+  #letteretopserif
+ {
+    width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 305pt;
+     background-color:  #b3ffff;
+ }
+
+
+  #lettere1
+ {
+    width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:55pt;
+     left: 315pt;
+     background-color: #99ffff;
+ }
+
+#lettere2
+ {
+    width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:75pt;
+     left: 315pt;
+     background-color: #99ffff;
+ }
+
+ #lettere3
+ {
+    width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:55pt;
+     left: 345pt;
+     background-color: #99ffff;
+ }
+
+ #lettere4
+ {
+    width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:90pt;
+     left: 340pt;
+     background-color: #99ffff;
+ }
+
+ #lettere5
+ {
+    width: 5pt;
+    height:15pt;
+     position: fixed;
+     top:72pt;
+     left: 342pt;
+     background-color: #99ffff;
+ }
+
+
+ #lettere6
+ {
+    width: 30pt;
+    height:10pt;
+     position: fixed;
+     top:90pt;
+     left: 330pt;
+     background-color: #99ffff;
+ }
+
+
+ #lettere7
+ {
+    width: 15pt;
+    height:5pt;
+     position: fixed;
+     top:72pt;
+     left: 332pt;
+     background-color: #99ffff;
+ }
+
+
+ #lettere8
+ {
+    width: 10pt;
+    height:36pt;
+     position: fixed;
+     top:55pt;
+     left: 310pt;
+     background-color: #99ffff;
+ }
+
+
+ #lettere9
+ {
+    width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:72pt;
+     left: 340pt;
+     background-color: #99ffff;
+ }
+
+ #LetterNserif
+ {
+    width:15pt;
+    height: 5pt;
+    position: fixed;
+    top:50pt;
+    left:400pt;
+    background-color: white;
+ }
+
+  #LetterNendserifbottom
+ {
+    width:15pt;
+    height: 5pt;
+    position: fixed;
+    top:55pt;
+    left:400pt;
+    background-color: white;
+ }
+
+
+  #LetterN1
+ {
+    width:10pt;
+    height: 60pt;
+    position: fixed;
+    top:50pt;
+    left:405pt;
+    background-color: white;
+ }
+
+ #LetterN2
+ {
+    width:10pt;
+    height: 60pt;
+    position: fixed;
+    top:50pt;
+    left:445pt;
+    background-color: white;
+ }
+
+  #LetterNarch
+ {
+    width:15pt;
+    height: 10pt;
+    position: fixed;
+    top:100pt;
+    left:405pt;
+    background-color: white;
+ }
+
+  #LetterNarch2
+ {
+    width:20pt;
+    height: 10pt;
+    position: fixed;
+    top:95pt;
+    left:405pt;
+    background-color: white;
+ }
+
+
+  #LetterNarch3
+ {
+    width:20pt;
+    height: 20pt;
+    position: fixed;
+    top:85pt;
+    left:412pt;
+    background-color: white;
+ }
+
+  #LetterNarch4
+ {
+    width:15pt;
+    height: 10pt;
+    position: fixed;
+    top:100pt;
+    left:443pt;
+    background-color: white;
+ }
+
+
+ #LetterNarch5
+ {
+    width:20pt;
+    height: 10pt;
+    position: fixed;
+    top:82pt;
+    left:420pt;
+    background-color: white;
+ }
+
+  #LetterNarch6
+ {
+    width:20pt;
+    height: 10pt;
+    position: fixed;
+    top:70pt;
+    left:425pt;
+    background-color: white;
+ }
+
+
+#LetterNarch7   {
+width:20pt;
+height: 15pt;
+position: fixed;
+top:60pt;
+left:430pt;
+background-color: white;
+ }
+
+ #letterGserif{
+   width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 105pt;
+     background-color: #66ffff;
+       position:absolute; 
+    background-color:#FFF; 
+    width: 20px; /* 95 */
+    display:block; 
+    height: 20px;
+    top:16px; 
+    left:260px; 
+    opacity:0.40; 
+    filter:alpha(opacity=40); 
+    z-index:1000; 
+    padding:0px; /* 20 */
+    text-transform:uppercase; 
+    text-decoration:none;
+    overflow: hidden;
+ }
+
+ #letterg1
+ {
+    width:30;
+    height:10;
+    position:fixed;
+    top:175pt;
+    left:100pt;
+    background-color: #4dffff;
+ }
+
+ #letterLtopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 195pt;
+     background-color: white;
+}
+
+#letterL1
+{
+    
+        width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:160pt;
+     left: 200pt;
+     background-color: white;
+ }
+
+     #letterL2
+{
+    
+        width: 15pt;
+    height:15pt;
+     position: fixed;
+     top:190pt;
+     left: 230pt;
+     background-color: white;
+
+ }
+
+    #letterL3
+{
+    
+        width: 40pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 205pt;
+     background-color: white;
+
+ }
+
+   #letterL4
+{
+    
+        width: 35pt;
+    height:5pt;
+     position: fixed;
+     top:195pt;
+     left: 195pt;
+     background-color: white;}
+
+
+ #letterL5
+{
+    
+    width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:165pt;
+     left: 195pt;
+     background-color: white;
+
+ }
+
+#letterIserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:200pt;
+     left: 279pt;
+     background-color: #006666;
+}
+
+#letterItopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 279pt;
+     background-color: white;
+}
+
+#letterI1
+{
+    
+        width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 283pt;
+     background-color: white;
+}
+
+
+#letterI3
+{
+    
+        width: 15pt;
+    height:25pt;
+     position: fixed;
+     top:170pt;
+     left: 280pt;
+     background-color: white;
+}
+
+
+ #letterg2
+ {
+    width:25;
+    height:25;
+    position:fixed;
+    top:180pt;
+    left:105pt;
+    background-color:    #e6ffff;
+ }
+
+  #letterg3
+ {
+    width:25;
+    height:10;
+    position:fixed;
+    top:195pt;
+    left:125pt;
+    background-color:    #e6ffff;
+ }
+
+  #letterg4
+ {
+    width:25;
+    height:25;
+    position:fixed;
+    top:160pt;
+    left:105pt;
+    background-color: #66ffff;
+ }
+
+ #letterg5
+ {
+    width:25;
+    height:10;
+    position:fixed;
+    top:157pt;
+    left:125pt;
+    background-color:    #e6ffff;
+ }
+ #letterg6
+ {
+    width:25;
+    height:15;
+    position:fixed;
+    top:157pt;
+    left:145pt;
+    background-color: #66ffff;
+ }
+
+ #letterg7
+ {
+    width:35pt;
+    height:5pt;
+    position:fixed;
+    top:185pt;
+    left:140pt;
+    background-color:    #e6ffff;
+ }
+
+
+
+
+ #lettergtopserif{
+ width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 115pt;
+     background-color: #66ffff;
+ }
+
+ #lettergserif2
+ {
+    width:15pt;
+    height:20pt;
+    position:fixed;
+    top:155pt;
+    left:155pt;
+    background-color: #e6ffff;
+ }
+
+ #lettergbottomserif
+ {
+    width:25pt;
+    height:20pt;
+    position:fixed;
+    top:185pt;
+    left:145pt;
+    background-color: #66ffff;
+    animation-name: slideDown;
+    -webkit-animation-name: slideDown;  
+
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+
+    animation-timing-function: ease;    
+    -webkit-animation-timing-function: ease;    
+
+    visibility: visible !important;     
+ }
+
+
+
+#letterTserif
+ {
+    width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:176pt;
+     left: 325pt;
+     background-color: white;
+ }
+
+  #letterTtopserif
+ {
+    width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 325pt;
+     background-color: white;
+ }
+
+
+  #letterT1
+ {
+    width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:160pt;
+     left: 345pt;
+     background-color: white;
+ }
+
+#letterT2
+ {
+    width: 30pt;
+    height:5pt;
+     position: fixed;
+     top:165pt;
+     left: 335pt;
+     background-color: "white";
+ }
+
+ #letterT3
+ {
+    width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:160pt;
+     left: 370pt;
+     background-color: white;
+ }
+
+ #letterT4
+ {
+    width: 10pt;
+    height:15pt;
+     position: fixed;
+     top:160pt;
+     left: 320pt;
+     background-color: white;
+ }
+
+ #letterCserif{
+   width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:190pt;
+     left: 415pt;
+     background-color: #ccffff;
+ }
+
+ #letterc1
+ {
+    width:30;
+    height:10;
+    position:fixed;
+    top:195pt;
+    left:400pt;
+    background-color: #ccffff;
+ }
+
+ #letterc2
+ {
+    width:25;
+    height:25;
+    position:fixed;
+    top:175pt;
+    left:405pt;
+    background-color: #ccffff;
+ }
+
+  #letterc3
+ {
+    width:25;
+    height:10;
+    position:fixed;
+    top:195pt;
+    left:425pt;
+    background-color: #ccffff;
+ }
+
+  #letterc4
+ {
+    width:25;
+    height:25;
+    position:fixed;
+    top:160pt;
+    left:405pt;
+    background-color: #ccffff;
+ }
+
+ #letterc5
+ {
+    width:25;
+    height:10;
+    position:fixed;
+    top:457pt;
+    left:525pt;
+    background-color: #ccffff;
+ }
+ #letterc6
+ {
+    width:25;
+    height:15;
+    position:fixed;
+    top:157pt;
+    left:445pt;
+    background-color: #ccffff;
+ }
+
+
+
+ #letterctopserif{
+ width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 415pt;
+     background-color: #ccffff;
+ }
+
+ #lettercserif2
+ {
+    width:8pt;
+    height:20pt;
+    position:fixed;
+    top:155pt;
+    left:455pt;
+    background-color: #ccffff;
+ }
+
+ #lettercbottomserif
+ {
+    width:8pt;
+    height:15pt;
+    position:fixed;
+    top:190pt;
+    left:455pt;
+    background-color: #ccffff;
+ }
+
+ #letterhserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:165pt;
+     left: 530pt;
+     background-color: #66ffff;
+}
+
+#letterhtopserif
+ {
+    width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:150pt;
+     left: 575pt;
+     background-color:  #e6ffff;
+}
+
+#letterh1
+{
+    width: 30pt;
+    height:10pt;
+     position: fixed;
+     top:150pt;
+     left:580pt;
+     background-color: white;
+
+}
+
+#letterh2
+{
+        width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 553pt;
+     background-color:  white;
+}
+
+#letterh3
+{
+        width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:155pt;
+     left: 550pt;
+     background-color: white;
+}
+
+#letterh4
+{
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:185pt;
+     left: 560pt;
+     background-color: white;
+ 
+}
+
+#letterh5
+{
+        width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:100pt;
+     left: 575pt;
+     background-color: white;
+}
+
+#letterh6
+{
+        width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:160pt;
+     left: 515pt;
+     background-color: white;
+}
+#letterhtopserifleft
+{
+ width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:155pt;
+     left: 520pt;
+     background-color: white;
+}
+
+#letterhbottomserifleft
+{
+width: 25pt;
+    height:5pt;
+     position: fixed;
+     top:165pt;
+     left: 520pt;
+     background-color: white;
+}
+
+#letterb{
+    position:absolute;
+    padding:10pc;
+}

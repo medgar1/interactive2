@@ -1,0 +1,39 @@
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ @font-face  
+/*@import url('https://fonts.googleapis.com/css?family=Monoton')*/ @fontface
+{font-family:"Candice";src:url("CANDY.eot?")
+ format("eot"),url("CANDY.woff") format("woff"),url("CANDY.ttf") format("truetype"),url("CANDY.svg#Candice") format("svg");font-weight:normal;font-style:normal;}
+{ font-family: "Monoton"; src:url("Monoton-Regular.tiff")}
+
+
+body{
+	background-color: rgba(53, 48, 49, 0.18);
+	opacity: 0.5;
+}
+
+h1{
+	font-family: Candice;
+	color:#7a7aff;
+}
+
+a {
+	font-family: 'Cutive', serif;
+	background-color: #ffffff;;
+}
+
+h2 {
+	font-family :helvetica;
+	background-color: rgba(0, 255, 139, 0.42);
+}
+
+div{
+		background-image: url("http://i38.photobucket.com/albums/e144/Michaelsclub7/_MG_3127_zpszrhhpczf.jpg");
+	color:#FF0040;
+	font-family:"helvetica";
+	font-size: 12pt;
+	text-align: center;
+	background-color: rgba(220, 158, 83, 0);
+	opacity: 1%;
+	/* opacity: inherit; */
+}
+
+

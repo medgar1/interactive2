@@ -1,0 +1,95 @@
+ 
+body{
+    background-color: black;
+}
+
+
+
+ #letterbserif
+ {
+ 	 width: 65pt;
+    height:5pt;
+     position: fixed;
+     top:100pt;
+     left: 200pt;
+     background-color: #e6ffff;
+
+ }
+
+#letterb1
+ {
+width: 15pt;
+    height:45pt;
+     position: fixed;
+     top:55pt;
+     left: 210pt;
+     background-color: #e6ffff;
+ }
+
+ #letterbtopserif
+ {
+width: 50pt;
+    height:5pt;
+     position: fixed;
+     top:55pt;
+     left: 200pt;
+     background-color: #e6ffff;
+ }
+
+ #letterb2
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:58pt;
+     left: 250pt;
+     background-color: #e6ffff;
+ }
+ #letterb3
+ {
+width: 15pt;
+    height:10pt;
+     position: fixed;
+     top:65pt;
+     left: 245pt;
+     background-color: #e6ffff;
+ }
+
+  #letterb4
+ {
+width: 25pt;
+    height:10pt;
+     position: fixed;
+     top:70pt;
+     left: 225pt;
+     background-color: #e6ffff;
+ }
+
+  #letterbarch
+ {
+width: 18pt;
+    height:10pt;
+     position: fixed;
+     top:90pt;
+     left: 250pt;
+     background-color: #e6ffff;
+ }
+
+ #letterbarchcurve
+ {
+width: 15pt;
+    height:20pt;
+     position: fixed;
+     top:80pt;
+     left: 245pt;
+     background-color: #e6ffff;
+ }
+
+ #letterbarchcurvetop {
+ width: 10pt;
+    height:5pt;
+     position: fixed;
+     top:80pt;
+     left: 240pt;
+     background-color: #e6ffff;
+ }

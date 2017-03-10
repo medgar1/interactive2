@@ -1,0 +1,381 @@
+
+body{
+    
+}
+
+#header {
+    width: 28.061pt;
+    height:6.893pt;
+     position: fixed;
+     top:35pt;
+     right: 86.371pt;
+     left: 117.875pt;
+     background-color: black;
+}
+
+#container {
+    width: 22.5pt;
+    height:12pt;
+     position: fixed;
+     top:30pt;
+     right :81.121pt;
+     left: 84pt;
+     background-color: black;
+}
+#first {
+    width: 19.031pt;
+    height:9.25pt;
+     position: fixed;
+     top:25pt;
+     right: 85.355pt;
+     left: 94.625pt;
+     background-color: black;
+}
+#second {
+     width: 17pt;
+    height:9pt;
+     position: fixed;
+     top:20pt;
+     right: 69.121pt;
+     left: 99.375pt;
+     background-color: black;
+}
+#clear {
+     width: 16.5pt;
+    height: 7.5pt;
+     position: fixed;
+     right: 57.748pt;
+     left: 99.25pt;
+     background-color: black;
+}
+
+#header1 {
+    width: 27.5pt;
+    height:3.25pt;
+     position: fixed;
+     top:25pt;
+     right: 55.621pt;
+     left: 108.25pt;
+     background-color: black;
+}
+
+#container2 {
+    width: 100pt;
+    height:101pt;
+     position: fixed;
+     top :-20;
+     left: -100;
+     background-color: black;
+}
+#first3 {
+    width: 10pt;
+    height:10pt;
+     position: fixed;
+     right: 57.748pt;
+     left: 99.25pt;
+     background-color: black;
+}
+#second4 {
+     width: 30pt;
+    height:70pt;
+     position: fixed;
+     top: 20pt;
+     right: 57.748pt;
+     left: 89;
+     background-color: black;
+}
+#clear5 {
+     width: 30pt;
+    height:50pt;
+     position: fixed;
+     top:55;
+     right: 60.748pt;
+     left: 120pt;
+     background-color: black;
+}
+
+}
+
+#header2 {
+    width: 28.061pt;
+    height:6.893pt;
+     position: fixed;
+     top:35pt;
+     right: 86.371pt;
+     left: 117.875pt;
+     background-color: black;
+}
+
+#container3 {
+    width: 22.5pt;
+    height:12pt;
+     position: fixed;
+     top:30pt;
+     right :81.121pt;
+     left: 230pt;
+     background-color: black;
+}
+#first4 {
+    width: 19.031pt;
+    height:9.25pt;
+     position: fixed;
+     top:25pt;
+     right: 79pt;
+     left: 250pt;
+     background-color: black;
+}
+#second5 {
+     width: 17pt;
+    height:9pt;
+     position: fixed;
+     top:25pt;
+     right: 80pt;
+     left: 235pt;
+     background-color: black;
+}
+#clear6 {
+     width: 30pt;
+    height: 70pt;
+     position: fixed;
+     top:20pt;
+     right:77.748pt;
+     left: 200pt;
+     background-color: black;
+}
+
+
+
+#header7 {
+    width: 28.061pt;
+    height:20pt;
+     position: fixed;
+     top:40pt;
+     right: 79pt;
+     left: 330pt;
+     background-color: black;
+}
+
+#container7 {
+    width: 22.5pt;
+    height:12pt;
+     position: fixed;
+     top:40pt;
+     right :80pt;
+     left: 345pt;
+     background-color: black;
+}
+#first7 {
+    width: 19.031pt;
+    height:35pt;
+     position: fixed;
+     top:55pt;
+     right: 79pt;
+     left: 360pt;
+     background-color: black;
+}
+#second7 {
+     width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:25pt;
+     right: 80pt;
+     left: 365pt;
+     background-color: black;
+}
+#clear7 {
+     width: 30pt;
+    height: 70pt;
+     position: fixed;
+     top:20pt;
+     right:77.748pt;
+     left: 300pt;
+     background-color: black;
+}
+
+#header8 {
+    width: 28.061pt;
+    height:20pt;
+     position: fixed;
+     top:40pt;
+     right: 79pt;
+     left: 400pt;
+     background-color: black;
+}
+
+#container8 {
+    width: 22.5pt;
+    height:12pt;
+     position: fixed;
+     top:40pt;
+     right :80pt;
+     left: 430pt;
+     background-color: black;
+}
+#first8 {
+    width: 19.031pt;
+    height:35pt;
+     position: fixed;
+     top:55pt;
+     right: 79pt;
+     left: 460pt;
+     background-color: black;
+}
+#second8 {
+     width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:25pt;
+     right: 80pt;
+     left: 405pt;
+     background-color: black;
+}
+#clear8 {
+     width: 30pt;
+    height: 70pt;
+     position: fixed;
+     top:20pt;
+     right:77.748pt;
+     left: 400pt;
+     background-color: black;
+}
+#buddy8 {
+     width: 30pt;
+    height: 12pt;
+     position: fixed;
+     top:30pt;
+     right:77.748pt;
+     left: 400pt;
+     background-color: black;
+}
+#circle8 {
+     width: 50pt;
+    height: 10pt;
+     position: fixed;
+     top:85pt;
+     right:77.748pt;
+     left: 425pt;
+     background-color: black;
+}
+
+#header9 {
+    width: 28.061pt;
+    height:20pt;
+     position: fixed;
+     top:20pt;
+     right: 79pt;
+     left: 500pt;
+     background-color: black;
+}
+
+#container9 {
+    width: 22.5pt;
+    height:12pt;
+     position: fixed;
+     top:20pt;
+     right :80pt;
+     left: 530pt;
+     background-color: black;
+}
+#first9 {
+    width: 19.031pt;
+    height:35pt;
+     position: fixed;
+     top:35pt;
+     right: 79pt;
+     left: 560pt;
+     background-color: black;
+}
+#second9 {
+     width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:25pt;
+     right: 80pt;
+     left: 505pt;
+     background-color: black;
+}
+#clear9 {
+     width: 30pt;
+    height: 70pt;
+     position: fixed;
+     top:20pt;
+     right:77.748pt;
+     left: 500pt;
+     background-color: black;
+}
+#buddy9 {
+     width: 30pt;
+    height: 12pt;
+     position: fixed;
+     top:15pt;
+     right:77.748pt;
+     left: 600pt;
+     background-color: black;
+}
+
+#circle9 {
+     width: 50pt;
+    height: 10pt;
+     position: fixed;
+     top:60pt;
+     right:77.748pt;
+     left: 525pt;
+     background-color: black;
+}
+
+
+#i {
+    width: 22.5pt;
+    height:12pt;
+     position: fixed;
+     top:20pt;
+     right :80pt;
+     left: 700pt;
+     background-color: black;
+}
+#i2 {
+    width: 19.031pt;
+    height:35pt;
+     position: fixed;
+     top:35pt;
+     right: 79pt;
+     left: 700pt;
+     background-color: black;
+}
+#i3 {
+     width: 20pt;
+    height:15pt;
+     position: fixed;
+     top:25pt;
+     right: 80pt;
+     left: 700pt;
+     background-color: black;
+}
+#i4 {
+     width: 30pt;
+    height: 60pt;
+     position: fixed;
+     top:20pt;
+     right:77.748pt;
+     left: 600pt;
+     background-color: black;
+}
+#i5 {
+     width: 30pt;
+    height: 12pt;
+     position: fixed;
+     top:15pt;
+     right:77.748pt;
+     left: 700pt;
+     background-color: black;
+}
+
+#i6 {
+     width: 50pt;
+    height: 10pt;
+     position: fixed;
+     top:60pt;
+     right:77.748pt;
+     left: 725pt;
+     background-color: black;
+}

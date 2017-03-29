@@ -1,0 +1,17 @@
+
+<html>
+<head>
+	<title>:hover (states)</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/Kathy&Tom$$$$.css">
+</head>
+<body>
+
+<p id="three-dimensional">
+			<span class="top">Don't forget that advanced CSS animations, filters, and transitions can acheive dimension, blur, and other motion effects.</span>
+			<span id="moving-shape"></span>
+		</p>
+		<p id="prompt-paragaph">
+			To explore hover states, use this file as a basis to do the following:</id><ul>
+</id>
+
+</body>

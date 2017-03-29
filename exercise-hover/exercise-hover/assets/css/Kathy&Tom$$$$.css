@@ -1,0 +1,43 @@
+body{
+	background-image: url('http://24.media.tumblr.com/tumblr_lv8wraKgna1qfl1x5o1_500.gif')
+}
+
+
+
+#moving-shape {
+	position: absolute;
+	width: 570px;
+	height: 320px;
+	background-image: url('https://s-media-cache-ak0.pinimg.com/originals/cb/30/83/cb30831103de69fe45691961dc5d74dc.png');
+	background-size: cover;
+	background-position: center;
+	top: -50px;
+	left: calc(50% - 285px);
+	display: block;
+	filter: blur(15px);
+	z-index: 0;
+
+	transition: 100ms all;
+	animation: rotating 45s linear infinite;
+}
+
+#three-dimensional:hover #moving-shape {
+    filter: blur(0px);
+
+    z-index: 2;
+}
+#moving-shape:hover{
+	transform: scale(3,3); 
+}
+
+.mouse:hover {
+	color: black;
+	cursor: url("https://s-media-cache-ak0.pinimg.com/originals/cb/30/83/cb30831103de69fe45691961dc5d74dc.png"), auto;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/cb/30/83/cb30831103de69fe45691961dc5d74dc.png");
+}
+
+	#three-dimensional {
+    z-index: 1;	
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/cb/30/83/cb30831103de69fe45691961dc5d74dc.png');
+
+}

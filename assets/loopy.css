@@ -4,7 +4,7 @@ font:helvetica;
 }
 
 #introductionbody{
-    background-image: url(pie.png);
+    background-image: url("http://i38.photobucket.com/albums/e144/Michaelsclub7/juy_zpspvhzekep.gif");
         position: absolute;
 
     width: 507px;
@@ -52,10 +52,11 @@ a {
     height:100px;
     width:100px;
     position:absolute;
-
 }
 
+
 #textb {
+    background-image: url("http://i38.photobucket.com/albums/e144/Michaelsclub7/juy_zpspvhzekep.gif");
     color:white;
     font:helvetica;
     font-size: 12px;
